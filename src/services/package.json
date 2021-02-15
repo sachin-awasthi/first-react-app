@@ -1,0 +1,25 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "Level2 services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinawasthi32/react-app.git"
+  },
+  "author": "Sachin A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinawasthi32/react-app/issues"
+  },
+  "homepage": "https://github.com/sachinawasthi32/react-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.11.16",
+    "nodemon": "^2.0.7"
+  }
+}
